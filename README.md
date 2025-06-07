@@ -1,4 +1,4 @@
-# IBM HR Analytics: Employee Attrition & Performance Analysis
+![Screenshot 2025-06-01 163921](https://github.com/user-attachments/assets/b0908f1f-0045-4482-b583-bd89d01711a8)![Screenshot 2025-06-01 163921](https://github.com/user-attachments/assets/3170df2c-2808-4b8a-9828-752b1f121f79)# IBM HR Analytics: Employee Attrition & Performance Analysis
 
 ## Introduction
 
@@ -63,34 +63,40 @@ The raw dataset was cleaned in Excel:
 - *Total Employees*: 1,470  
 - *Attrition Count*: 237  
 - *Attrition Rate: **16.1%*
+  [Screenshot 2025-06-01 163726](https://github.com/user-attachments/assets/a9f5a551-680c-46e4-972e-e2101869370d)
+
 
 ---
 
 ### Attrition by Marital Status  
 *Finding*: Single employees had the highest attrition rate compared to married and divorced employees.
+[Screenshot 2025-06-01 163819](https://github.com/user-attachments/assets/3a4a42a1-42b5-4e2a-adbf-bcfe2634457f)
 
-📌 Attach chart: `charts/attrition_by_marital_status.png`
 
 ---
 
 ###  Attrition by Overtime  
 *Finding: Attrition is significantly higher among employees who worked overtime — **30.53%* vs *10.44%* for those who didn’t.
+[Screenshot 2025-06-01 163849](https://github.com/user-attachments/assets/b7277898-c025-41be-abee-57cf67db597f)
 
-📌 Attach chart: `charts/attrition_by_overtime.png`
+
 
 ---
 
 ### Attrition by Age Group  
 *Finding: Employees aged **30-39* showed the highest attrition count.
+[Uploading Screenshot 2025-06-01 163921.png…]()
 
-📌 Attach chart: `charts/attrition_by_age_group.png`
+
+
 
 ---
 
 ###  Attrition by Job Role and Department  
 *Finding*: Sales Representatives and Laboratory Technicians had the highest attrition. Sales Department saw more exits than R&D or HR.
+[Screenshot 2025-06-01 164141](https://github.com/user-attachments/assets/f82d7975-5f66-4905-8c04-e38615f4a7e9)
 
-📌 Attach chart: `charts/attrition_by_jobrole_and_department.png`
+
 
 ---
 
@@ -130,9 +136,10 @@ Business travelers who traveled frequently left more often.
 
 Job satisfaction and environment satisfaction showed minor correlation with attrition.
 
+[Screenshot 2025-06-01 164243](https://github.com/user-attachments/assets/cedcc851-8ad7-454a-b952-f486ab505c60)
 
-📌 Attach chart: charts/gender_vs_attrition.png
-📌 Attach chart: charts/business_travel_vs_attrition.png
+![Screenshot 2025-06-01 164003](https://github.com/user-attachments/assets/85c25153-3eba-47da-a393-be0dc62863af)
+
 
 
 ---
